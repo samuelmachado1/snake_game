@@ -1,2 +1,4 @@
 # snake_game
-Snake game in JavaScrit
+Recreating the snake game in JavaScript
+
+
