@@ -1,4 +1,2 @@
-# snake_game
-Recreating the snake game in JavaScript
-
-
+# Snake Game
+Simple game made in JavaScript that recreates the classic snake game.
