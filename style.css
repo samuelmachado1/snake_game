@@ -1,0 +1,18 @@
+body{
+    background-color: #95B1E8;
+}
+
+div{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #8A44FF;
+    
+}
+div h1{
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 42px;
+}
